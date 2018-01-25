@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Za\IeC {\l }o\IeC {\.z}enia}{3}
+\contentsline {section}{\numberline {2}Struktura systemu}{4}
+\contentsline {subsection}{\numberline {2.1}Podsystem sterowania}{5}
+\contentsline {subsubsection}{\numberline {2.1.1}Zawarto\'s\IeC {\'c} pami\IeC {\k e}ci wewn\IeC {\k e}trznej oraz bufor\IeC {\'o}w wej\'sciowych i wyj\'sciowych}{5}
+\contentsline {subsubsection}{\numberline {2.1.2}Automat sko\IeC {\'n}czony, zachowania, warunki pocz\IeC {\k a}tkowe i ko\IeC {\'n}cowe}{6}
+\contentsline {subsubsection}{\numberline {2.1.3}Funkcje przej\'scia}{7}
+\contentsline {subsection}{\numberline {2.2}Wirtualny efektor}{10}
+\contentsline {subsubsection}{\numberline {2.2.1}Zawarto\'s\IeC {\'c} pami\IeC {\k e}ci wewn\IeC {\k e}trznej oraz bufor\IeC {\'o}w wej\'sciowych i wyj\'sciowych}{11}
+\contentsline {subsubsection}{\numberline {2.2.2}Automat sko\IeC {\'n}czony, zachowania, warunki pocz\IeC {\k a}tkowe i ko\IeC {\'n}cowe}{11}
+\contentsline {subsubsection}{\numberline {2.2.3}Funkcje przej\'scia}{12}
+\contentsline {subsection}{\numberline {2.3}Wirtualny receptor}{14}
+\contentsline {subsubsection}{\numberline {2.3.1}Zawarto\'s\IeC {\'c} pami\IeC {\k e}ci wewn\IeC {\k e}trznej oraz bufor\IeC {\'o}w wej\'sciowych i wyj\'sciowych}{15}
+\contentsline {subsubsection}{\numberline {2.3.2}Automat sko\IeC {\'n}czony, zachowania, warunki pocz\IeC {\k a}tkowe i ko\IeC {\'n}cowe}{15}
+\contentsline {subsubsection}{\numberline {2.3.3}Funkcje przej\'scia}{16}
+\contentsline {subsection}{\numberline {2.4}Kroki dyskretyzacji}{16}
